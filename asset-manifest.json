@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-textbook-redux/static/css/main.7acaea2f.css",
+    "main.js": "/react-textbook-redux/static/js/main.0b74ac61.js",
+    "index.html": "/react-textbook-redux/index.html",
+    "main.7acaea2f.css.map": "/react-textbook-redux/static/css/main.7acaea2f.css.map",
+    "main.0b74ac61.js.map": "/react-textbook-redux/static/js/main.0b74ac61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.0b74ac61.js"
+  ]
+}
